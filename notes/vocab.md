@@ -1,0 +1,12 @@
+- **Deep Learning** -
+- **Neurosymbolic Systems** - The unification of AI (neural networks/ml) with symbolic reasoning frameworks/systems (KGs, inferencing). Combines statistical patterns with constraints and knowledge to improve the representation, reasoning, and generalization of concepts of AI, to solve real world problems.
+- **Symbolic Systems** -
+- **Neural Network** -
+- **System 1 Thinking** - Fast, unconscious, non-verbal inference.
+- **System 2 Thinking** - Slow, deliberate, verbal reasoning.
+- **Implicit Knowledge** - Representations learned from data
+- **Explicit Knowledge** - Human-interpretable rules and knowledge.
+- **Black Box** - non-transparent computation.
+- **Interpretable** - Structured reasoning.
+- **Symbol Emergence** - A symbol being identified from data, becoming a useful discrete concept to be communicated, according to some pre-defined utility measure. Facilitates the establishment of a shared vocabulary.
+- **Symbol Grounding Problem** - Endowing agents with the means to autonomously create internal representations that link their manipulated symbols to corresponding referents in the external world.
