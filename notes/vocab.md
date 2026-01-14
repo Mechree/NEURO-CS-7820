@@ -10,3 +10,9 @@
 - **Interpretable** - Structured reasoning.
 - **Symbol Emergence** - A symbol being identified from data, becoming a useful discrete concept to be communicated, according to some pre-defined utility measure. Facilitates the establishment of a shared vocabulary.
 - **Symbol Grounding Problem** - Endowing agents with the means to autonomously create internal representations that link their manipulated symbols to corresponding referents in the external world.
+- **Inductive Logic Programming (ILP) and differentiable reasoning** - Frameworks that learn logical rules from limited datasets, particularly when symbolic background knowledge is encoded.
+- **Transfer learning in symbolic contexts** -
+- **Domain adversarial training** - Training method for ML models to learn features that are consistent across different domains.
+- **Case Based Reasoning (CBR)** - Nesy systems learn from past experiences.
+- **Knowledge injection and logic-based regularization** - the integration of logical constrains and knowledge bases into learning objectives.
+- **Explainable AI (XAI)** - AI systems that allow for human understanding of the system from its I/O, reasoning process, and most impactful features.

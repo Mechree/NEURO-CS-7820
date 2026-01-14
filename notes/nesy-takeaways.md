@@ -1,4 +1,4 @@
-# Pgs 8-17:
+# Pgs 8-19:
 
 - Nesy systems adopt from "Thinking fast and slow" (system 1/2 thinking).
 - The distinction between Nesy systems is still being debated and defined. Some of the concerns are about:
@@ -28,3 +28,13 @@
   In addition, the C (Communicative) dictates that the "...symbols must be transferable and composable across agents, humans or systems." The "or" implying that only communication is required between one of the items from the list. The E (Explainable) mentions that these symbols should make reasoning transparent, but to whom?
 
   If human understanding of the newly generated symbols from Nesy systems is not a strict requirement, outside of a computationally efficient system, what benefit would that have for humans? As mentioned in G and C, human understanding is not a strict requirement for symbol emergence from Nesy systems.
+
+# Pgs 19-28:
+
+- Goal of Nesy systems in relation to XAI is to enable useful understanding of Nesy systems based on user desires, depth of explainability, scalability, and relevancy/accuracy.
+
+## Questions
+
+# Pgs 31-40:
+
+## Questions
