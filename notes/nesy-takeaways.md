@@ -37,4 +37,40 @@
 
 # Pgs 31-40:
 
+- GenAI Pipeline
+
+  1. Data Prep
+  2. Training
+  3. Fine-tuning
+  4. Prompt/Output control
+  5. Feedback/Optimization
+  6. Deployment
+
+- Most steps in the above pipeline can have symbolic structures and reasoning systems integrated into them to improve generative models.
+
+  - Data Prep: KGs, various graphs,
+  - Training: KG Embeddings, joint loss function, concatenation, etc.
+  - Fine-tuning: Formal rules, constraints, specs, domain specific knowledge.
+  - Prompt/Output control: GraphRAG, Ontological knowledge, KGs
+  - Inference: logic-based sampling/decoding, post-filtration, KG, embeddings, text to symbolic artifacts.
+
+- OWL based KGs enable inferencing and consistency checks in Nesy systems. Good for zero and few-shot settings.
+
+  - Can be embedding in training pipelines
+  - Can be used to filter invalid outputs at inference time
+
+- Translation - The embedding of logical constraints into the neural loss function and semantic data augmentation.
+- Extraction - Transforming learned representations into rules for reasoning tasks.
+- Consolidation - Used results from extraction and places them into the existing knowledge structures.
+
+- Enriched Integration systems:
+  - Creation
+  - Adaptation
+  - Translation
+  - Generation/Extraction
+  - Consolidation
+  - Explanation
+
 ## Questions
+
+- Can you more clearly define what semantic data augmentation is in the context of Knowledge Translation?
