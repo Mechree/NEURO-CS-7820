@@ -64,6 +64,7 @@
 - Consolidation - Used results from extraction and places them into the existing knowledge structures.
 
 - Enriched Integration systems:
+
   - Creation
   - Adaptation
   - Translation
@@ -71,6 +72,19 @@
   - Consolidation
   - Explanation
 
+- Go to enable Learning agent (LLM) Capable of performing KE.
+- Human Agent will use existing knowledge and domain expertise to create new knowledge or learn about the systems reasoning process.
+- Knowledge-based agents will store KGs, adapting or translating knowledge for human consumption.
+- Establishing a procedure to extract and formalize this implicit knowledge, and then integrate it with established ontologies and KGs, is an open challenge
+
 ## Questions
 
 - Can you more clearly define what semantic data augmentation is in the context of Knowledge Translation?
+
+# Pgs 41 - 50:
+
+- "When such inference is symbolic, we can achieve generalizable “understanding” rather than situation-specific mimicry." It would be possible to argue that mimicry can still exist with this type of 'generalization' and ability to 'differentiate.'
+
+- Agentic AI frameworks are a common approach for human-machine collaborative systems.
+
+- A desire for a "Cognitive API" exists as requirements for such a system does not exist as there are many design choices that require extensive thought and agreement.
